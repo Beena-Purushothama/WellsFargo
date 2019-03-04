@@ -1,4 +1,4 @@
-Consumer Affairs - Wells Fargo Review Comments Extraction
+### Consumer Affairs - Wells Fargo Review Comments Extraction
 
 In this mini project I am trying to show how we can extract the consumer review comments from external websites using webscraping.
 
