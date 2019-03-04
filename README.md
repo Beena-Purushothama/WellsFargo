@@ -1,4 +1,8 @@
-# WellsFargo
+# Wells Fargo
 
-This is a repository of mini projects on Wellsfargo related data
+![](wellsfargo.png)
+
+This repository talks about the mini projects which I have done for showing how we can fetch the data related to Wells Fargo using methods like REST API and Webscraping.
+
+
 
